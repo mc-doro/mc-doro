@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mc-doro
-- 👀 I’m interested in music, design and front-end coding.
+- 👀 I’m interested in alternative music, old-fashioned design and front-end coding.
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on developing my HTML, CSS and also UX/UI design skills.
 - 📫 How to reach me dorota.martyniuq@gmail.com
